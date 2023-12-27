@@ -17,3 +17,6 @@ This function calculates the average number of lines per invoice
 8. (Sales per Store per Day)
 This function calculates the total sales amount for each store on each day
 
+
+![HF1](https://github.com/SimaGhanadiyan/Sale-insight/assets/107240621/1458a13a-1bb6-42ce-899e-43063c50fe24)
+![HF2](https://github.com/SimaGhanadiyan/Sale-insight/assets/107240621/3c629f06-b6ed-48cb-9deb-69699561c8d0)
